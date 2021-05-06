@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src\\test\\resources\\features\\cadastro.feature",
         glue = "br.ce.desafio.steps",
-        tags = "@Deletar",
+        //tags = "@Deletar",
         plugin = "pretty",
         monochrome = true,
         snippets = CucumberOptions.SnippetType.CAMELCASE,
