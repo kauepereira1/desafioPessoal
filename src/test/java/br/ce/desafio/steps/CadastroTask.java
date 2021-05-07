@@ -112,5 +112,4 @@ public class CadastroTask extends BaseSteps {
         page.setClicarAlert();
 
     }
-
 }

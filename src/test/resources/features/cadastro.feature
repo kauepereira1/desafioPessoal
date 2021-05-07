@@ -12,7 +12,7 @@ Cenario: Cadastrar Task
   E preencho os campos
   Então vejo que a task foi cadastrada com sucesso.
 
-@Editar
+
 Cenario: Editar Task
   Dado que estou acessando a aplicação
   Então visualizo a página inicial
@@ -24,7 +24,7 @@ Cenario: Editar Task
   E clico em Editar
   Então o arquivo é alterado com sucesso
 
-@Deletar
+
 Cenario: Deletar Task
   Dado que estou acessando a aplicação
   Então visualizo a página inicial
